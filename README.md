@@ -1,2 +1,1 @@
-# ForFit
-Fitness Tracker and Diet Planner with AI
+4Fit is a fitness management and body composition tracking app that helps users monitor their weight, muscle mass, and body fat. It provides personalized insights, calorie recommendations, training plans, and progress history, empowering gyms and individuals to achieve their fitness goals
